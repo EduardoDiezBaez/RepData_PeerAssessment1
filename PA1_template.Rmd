@@ -2,7 +2,7 @@
 output: html_document
 ---
 
-####Eduardo Díez
+####Eduardo Díez Báez
 ####Professors Roger D. Peng, Jeff Leek, and Brian Caffo
 ####Reproducible Research
 ####13 July 2014
